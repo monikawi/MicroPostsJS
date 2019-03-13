@@ -2,8 +2,8 @@
 
 MicroPostsJS is a small project which imitates a social networking microblogging service allowing a user to share short posts as well as edit and delete them on local storage. (CRUD Front End)
 
-### Website Link 
-
+### Website Link
+https://monikawi.github.io/MicroPostsJS/
 
 ### Technologies Used
 
