@@ -7,6 +7,7 @@ https://monikawi.github.io/MicroPostsJS/
 
 ### Technologies Used
 
+
 * Basic HTML and CSS
 * JavaScript with DOM manipulation
 * [Bootswatch Theme](https://bootswatch.com/) - Basic theme for Bootstrap 
